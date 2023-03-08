@@ -1,1 +1,1 @@
-# react-notes-webapp-with-firetore
+# react-notes-webapp-with-firestore
