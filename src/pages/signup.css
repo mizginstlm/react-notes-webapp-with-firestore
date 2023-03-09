@@ -1,0 +1,48 @@
+.signup{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.signup form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+    .signup input{
+      width: 200px;
+      height: 30px;
+      margin: 10px;
+      outline: none;
+      border-color: darkorchid;
+       border-radius: 10px;
+      
+    }
+
+    .signup button{
+      width: 200px;
+      height: 30px;
+      border: none;
+      background-color: purple;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .signup  span{
+      font-size: 12px;
+      color: red;
+      margin-top: 10px;
+    }
+  
+    .dark-mode input {
+      background-color: rgb(0, 0, 0);
+      border-color: rgb(196, 175, 217);
+    }
+
+    .dark-mode  input, select, textarea {
+      color: rgb(255, 255, 255);
+    }
+      
+    
